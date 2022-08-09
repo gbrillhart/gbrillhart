@@ -1,4 +1,4 @@
-Hello, I'm Garrett Brillhart.
+Hello! I'm Garrett Brillhart.
 I'm a senior at Purdue University studying Computer Engineering. My main focus is on software development and digital logic through all levels.
 This includes low-level assembly coding for microcontrollers, C coding for microcontrollers and computation-intensive algorithms, as well as more high-level development with Python in AI and Computer Security.
 I have microcontroller experience with my senior design project, Sink or be Sunk (See our demonstration at https://www.youtube.com/watch?v=ziMwrT-h9pU&t=23s and our github at https://github.com/Sink-or-be-Sunk). I dealt mainly with programming the I/O for the microcontroller and the board in C. Much of the work was testing and experimenting with digital circuits on a breadboard and then implementing them through the Team PCB.
